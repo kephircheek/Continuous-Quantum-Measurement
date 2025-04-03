@@ -1,0 +1,3 @@
+[submodule "dependencies/Bose-Einstein-condensate.git"]
+	path = dependencies/Bose-Einstein-condensate.git
+	url = https://github.com/kephircheek/Bose-Einstein-condensate.git
